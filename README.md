@@ -29,7 +29,16 @@
 ## Installation
 
 ```bash
+$ npm i -g @nestjs/cli
+```
+
+```bash
 $ npm install
+```
+
+## Generate New Module with CRUD
+```bash
+$ nest g resource <module-name>
 ```
 
 ## Running the app
